@@ -1,4 +1,4 @@
-# Binary Classification CNN: Cat vs Dog
+<img width="1850" height="570" alt="image" src="https://github.com/user-attachments/assets/6a6f6835-1238-45df-b153-8b09bb16d560" /># Binary Classification CNN: Cat vs Dog
 
 Uses the professor's code from https://github.com/ubibot2000/Mask_std
 (professor: Mask vs No Mask, mine: Cat vs Dog; class 0 = Cat, class 1 = Dog).
@@ -9,7 +9,7 @@ The 3 notebooks are the professor's, unchanged except the file paths (now relati
 ## Dataset (on Google Drive)
 The images and the trained model are too big for GitHub, so they are on Google Drive:
 
-**DRIVE LINK: (paste your Google Drive link here)**
+**DRIVE LINK: https://drive.google.com/file/d/1JDK1OMyiQD7uDWsYjAEeO9Pj-BcKWTz9/view?usp=drive_link**
 
 Download it and put the folders `origin/`, `aug/`, `predict/` and the file `model_trained_data.h5`
 in the same folder as the notebooks.
